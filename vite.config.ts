@@ -11,7 +11,7 @@ export default defineConfig({
   },
   build: {
     rollupOptions: {
-      external: ['react', 'embla-carousel-react'],
+      external: ['react', 'embla-carousel-react', '@radix-ui/react-label'],
     },
   },
 });

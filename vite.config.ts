@@ -11,7 +11,7 @@ export default defineConfig({
   },
   build: {
     rollupOptions: {
-      external: ['dependency-to-externalize'],
+      external: ['react', 'embla-carousel-react'],
     },
   },
 });

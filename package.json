@@ -19,6 +19,7 @@
     "@tabler/icons-react": "^3.11.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "force": "^0.0.3",
     "framer-motion": "^11.3.19",
     "lucide-react": "^0.416.0",
     "path": "^0.12.7",

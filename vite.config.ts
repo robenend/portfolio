@@ -18,17 +18,9 @@ export default defineConfig({
     [
       VitePWA({
         registerType: 'autoUpdate',
-        includeAssets: ['icon.png'],
         manifest: {
           name: 'portfolio',
           short_name: 'portfolio',
-          icons: [
-            {
-              src: 'icon.png',
-              sizes: '64x64 32x32 24x24 16x16 192x192 512x512',
-              type: 'image/png',
-            },
-          ],
         },
       }),
     ],

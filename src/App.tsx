@@ -9,13 +9,14 @@ import Testimony from './components/testimony';
 function App() {
   return (
     <>
-      <Navbar />
+      {/* <Navbar />
       <Hero />
       <HeroForm />
       <Certification />
       <Testimony />
       <Project />
-      <Skill />
+      <Skill /> */}
+      <h1>hello world, this is a server test</h1>
     </>
   );
 }
